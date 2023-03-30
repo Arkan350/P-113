@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(76, 250, 169);
+}
+.naruto {
+    font-size: 30px;
+    margin-left: 70px;
+}
+.naruto:hover {
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+}
+.sasuke {
+    font-size: 20px;
+    margin-left: 70px;
+}
+canvas{
+    border-radius: 5%;
+    border: black dashed;
+    box-shadow: 10px 10px 10px rgb(52, 53, 53);
+}
